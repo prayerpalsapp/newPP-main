@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "733041972796",
+    "project_id": "prayerpals-c3cdf",
+    "storage_bucket": "prayerpals-c3cdf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733041972796:android:ab2d946d8ec4f84e871539",
+        "android_client_info": {
+          "package_name": "com.prayerpals.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "733041972796-o5eehunj0il0l50f4ugdmi3a38uoa74m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.prayerpals.android",
+            "certificate_hash": "f63024994348416a182948d7b0ee2758ba1e1d72"
+          }
+        },
+        {
+          "client_id": "733041972796-f3sae3gg71kl1ueje4ou7j9cr89ab2dq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyOwhoenrhCxTB68NwKUERMRhzX4kJpDM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "733041972796-f3sae3gg71kl1ueje4ou7j9cr89ab2dq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "733041972796-j96fslagst1jitpt26vq7q467g9telfc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.prayerpal.ios"
+              }
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-6387992431790976~3992345352"
+    }
+  ],
+  "configuration_version": "1"
+}
